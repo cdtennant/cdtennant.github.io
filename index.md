@@ -1,6 +1,6 @@
 Hello and welcome to this blog.
 
-![Image of ct logo](images/ct_logo.png)
+![Image of ct logo_smaller](images/ct_logo_smaller.png)
 
 ## This is a title
 
